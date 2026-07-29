@@ -2,4 +2,5 @@
 
 -(x) Dia 1 Famoso Hello Word!
 -(x) Dia 2 Calculadora simples para somar dois números
--( ) Dia 3 
+-(x) Dia 3 Condicional verifica se o numero é par ou impar
+-( ) Dia 4
