@@ -3,4 +3,6 @@
 -(x) Dia 1 Famoso Hello Word!
 -(x) Dia 2 Calculadora simples para somar dois números
 -(x) Dia 3 Condicional verifica se o numero é par ou impar
--( ) Dia 4
+-(x) Dia 4 Laço de repetição usando for e while
+-(x) Dia 5 Função que imprimi o quadrado de um némero 
+-() Dia 6 
