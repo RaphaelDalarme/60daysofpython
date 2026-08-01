@@ -5,4 +5,4 @@
 -(x) Dia 3 Condicional verifica se o numero é par ou impar
 -(x) Dia 4 Laço de repetição usando for e while
 -(x) Dia 5 Função que imprimi o quadrado de um némero 
--() Dia 6 
+-(x) Dia 6 Função adicionando uma lista de frutas com input 
