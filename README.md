@@ -6,3 +6,5 @@
 -(x) Dia 4 Laço de repetição usando for e while
 -(x) Dia 5 Função que imprimi o quadrado de um némero 
 -(x) Dia 6 Função adicionando uma lista de frutas com input 
+-(x) Dia 7 Dicionario de aluno dinamico e estatico
+-() Dia 8 
