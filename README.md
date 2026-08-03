@@ -7,4 +7,5 @@
 -(x) Dia 5 Função que imprimi o quadrado de um némero 
 -(x) Dia 6 Função adicionando uma lista de frutas com input 
 -(x) Dia 7 Dicionario de aluno dinamico e estatico
--() Dia 8 
+-(x) Dia 8 Fazendo uma function para validar a idade do usuario
+-() Dia 9 
