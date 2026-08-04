@@ -8,4 +8,4 @@
 -(x) Dia 6 Função adicionando uma lista de frutas com input 
 -(x) Dia 7 Dicionario de aluno dinamico e estatico
 -(x) Dia 8 Fazendo uma function para validar a idade do usuario
--() Dia 9 
+-(x) Dia 9 Contador personalizado
