@@ -10,4 +10,4 @@
 -(x) Dia 8 Fazendo uma function para validar a idade do usuario
 -(x) Dia 9 Contador personalizado
 -(x) Dia 10 Criamos um gerador de senha
--() Dia 11
+-(x) Dia 11 Usamos a função sorted para ordenar uma lista de numero 
