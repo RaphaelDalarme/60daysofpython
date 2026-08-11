@@ -13,3 +13,5 @@
 -(x) Dia 11 Usamos a função sorted para ordenar uma lista de numero
 -(x) Dia 12 Buscando um numero linear
 -(x) Dia 13 Criando uma função que fatora uma número
+-(x) Dia 14 Indentificado de número primo
+-(x) Dia 15 Gerador de fibonacci
