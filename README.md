@@ -15,3 +15,5 @@
 -(x) Dia 13 Criando uma função que fatora uma número
 -(x) Dia 14 Indentificado de número primo
 -(x) Dia 15 Gerador de fibonacci
+-(x) Dia 16 Anagramas
+-(x) Dia 17 Palindromos
