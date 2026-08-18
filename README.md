@@ -17,3 +17,5 @@
 -(x) Dia 15 Gerador de fibonacci
 -(x) Dia 16 Anagramas
 -(x) Dia 17 Palindromos
+-(x) Dia 18 Contabilizar palavras
+-() Dia 19 Media de notas
